@@ -1,0 +1,9 @@
+Created on Tue Apr 29 16:12:50 2025
+
+@author: gustavotk
+"""
+
+Configurar git : git config --global user.name "GustavoTrappK"
+                 git config --global user.emal "gustavo.tk04@hotmail.com"
+                 
+                 
